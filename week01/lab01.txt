@@ -19,3 +19,5 @@ drwxr-xr-x  2 muhamad.ibnu71 StafCS 4096 Sep  3 23:35 week08
 drwxr-xr-x  2 muhamad.ibnu71 StafCS 4096 Sep  3 23:35 week09
 drwxr-xr-x  2 muhamad.ibnu71 StafCS 4096 Sep  3 23:36 week10
 drwxr-xr-x  2 muhamad.ibnu71 StafCS 4096 Sep  3 23:33 xtra
+Today is 
+Today is 06 Sep 2017 at 09:21:50
