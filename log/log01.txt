@@ -1,0 +1,3 @@
+w01-030917-23-PS-About: clone git repository; intro to git; intro to CLI,  from :Lecturer
+w01-060917-09-PS-About:intro to scripting, from: Lecturer
+
