@@ -1,3 +1,3 @@
-w00-310817-19-LR-About:Operating System Intro & review, from Lecturer
-w00-030917-22-PS-About:SOP Login to Badak Server, from: Lecturer
-w00-050917-10-LR-About: Introduction to Operating System,from: Lecturer and ebook
+w00-170831-19-LR-About:Operating System Intro & review, from Lecturer
+w00-170903-22-PS-About:SOP Login to Badak Server, from: Lecturer
+w00-170905-10-LR-About: Introduction to Operating System,from: Lecturer and ebook
